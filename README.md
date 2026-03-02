@@ -10,11 +10,11 @@
 
 ｡𖦹°‧ Hello! 👋 My name is Eduarda and I am a Systems Analysis and Development student at Unic, scheduled to graduate in 2028. I am in my first semester of the course and hope to develop a good understanding of a wide variety of programming languages.
 
-‧₊⊹ Sempre estou estudando e evoluindo — inclusive faço cursos online e adoro aprender novos idiomas. No momento estou aperfeiçoando meu inglês
+‧₊⊹ I am always studying and evolving—I even take online courses and love learning new languages. Right now, I am improving my English.
 
-*ੈ‧₊˚🎮 Fora do mundo tech, amo jogar jogos online e ouvir músicas 
+*ੈ‧₊˚🎮 Outside of the tech world, I love playing online games and listening to music. 
 
-⬪:˵ˊ✨Sou uma pessoa criativa e curiosa, sempre disposta a aprender e me aprofundar no que faço. Sou dedicada em cada projeto e valorizo muito o trabalho em equipe. Para mim, a tecnologia se torna ainda mais especial quando é construída e compartilhada em conjunto. 💜
+⬪:˵ˊ✨I am a creative and curious person, always willing to learn and delve deeper into what I do. I am dedicated to every project and highly value teamwork. For me, technology becomes even more special when it is built and shared together. 💜
 
 
 <div align="center">
