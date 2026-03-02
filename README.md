@@ -9,7 +9,7 @@
 
 ##
 
-｡𖦹°‧ Hello! 👋 My name is Eduarda and I am a Systems Analysis and Development student at Unic, scheduled to graduate in 2028. I am in my first semester of the course and hope to develop a good understanding of a wide variety of programming languages.
+｡𖦹°‧ Hello! 👋 My name is Eduarda and I am a Systems Analysis and Development student at UNIC, scheduled to graduate in 2028. I am in my first semester of the course and hope to develop a good understanding of a wide variety of programming languages.
 
 ‧₊⊹ I am always studying and evolving—I even take online courses and love learning new languages. Right now, I am improving my English.
 
