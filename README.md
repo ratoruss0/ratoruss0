@@ -3,7 +3,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:9D4EDD,100:C77DFF&height=180&section=header&animation=twinkling"/>
 </p>
 
-## 👾 ⊹₊˚‧︵‿₊୨ 💻 Tech girl ୧₊‿︵‧˚₊⊹
+# 👾 ⊹₊˚‧︵‿₊୨ 💻 Tech girl ୧₊‿︵‧˚₊⊹
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=541BA9&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
@@ -35,7 +35,7 @@ eight="150" alt="languages graph" />
 </div>
 
 
-#   <h2>──★˙🍒!Languages</h2>
+# <h2>──★˙🍒!Languages</h2>
   <img align="center" alt="rato-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
