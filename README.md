@@ -41,7 +41,7 @@ eight="150" alt="languages graph" />
 
 # ˖꒰ How to contact me ꒱ ᘏ (🪻) 
  <a href= "mailto:Zaharaalmeida666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href= "https://(https://www.tiktok.com/@ratorussoo)/@ratoruss0" ><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href= "https://www.tiktok.com/@ratorussoo?_r=1&_t=ZS-95O8TascBOa)/@ratoruss0" ><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
  
 <div> 
 <picture>
